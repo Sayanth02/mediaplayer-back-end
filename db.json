@@ -1,0 +1,50 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Eminem - Mockingbird ",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Mockingbird_%28Eminem_song%29_cover.jpg/220px-Mockingbird_%28Eminem_song%29_cover.jpg",
+      "url": "https://www.youtube.com/embed/rQNPtLhN0s8"
+    },
+    {
+      "id": "2",
+      "caption": "Aaradhike Video Song",
+      "thumbnail": "https://i.ytimg.com/vi/N33WafbGXiA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/dAezp422I_A"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "malayalam",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Eminem - Mockingbird ",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Mockingbird_%28Eminem_song%29_cover.jpg/220px-Mockingbird_%28Eminem_song%29_cover.jpg",
+          "url": "https://www.youtube.com/embed/rQNPtLhN0s8"
+        },
+        {
+          "id": "2",
+          "caption": "Aaradhike Video Song",
+          "thumbnail": "https://i.ytimg.com/vi/N33WafbGXiA/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/dAezp422I_A"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/watch?v=itvW80LUm2k",
+      "date": "27-10-2023"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
